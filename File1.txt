@@ -1,1 +1,2 @@
 This is a new file. I have created it as a text file. After this, i am going to try branching
+This file has been edited in branch1
